@@ -29,6 +29,9 @@ Should both the player and banker have the same value at the end of the deal the
 ## UML Design
 ![1687214239261](https://github.com/1eom3i/Baccarat-Card-Game-Simulator/assets/124229472/f05cbd8a-ca18-4a8e-8578-518fee9fb5b6)
 
+## User Interface
+**DisplayDeck.java** and **Animate.java** use JavaFX to implement a graphical user interface for your Baccarat simulator.
+
 ## Play Example:
 ![1687214482117](https://github.com/1eom3i/Baccarat-Card-Game-Simulator/assets/124229472/0ff447e9-dd39-4772-97f8-bceab9473add)
 
